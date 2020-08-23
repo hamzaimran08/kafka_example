@@ -1,0 +1,10 @@
+kafka:
+  url: localhost:9092
+  topic: icl.analytics.events.service
+postgres:
+  host: localhost
+  port: 5432
+  database: volvo
+  table: icl
+  user: postgres
+  password: postgres
